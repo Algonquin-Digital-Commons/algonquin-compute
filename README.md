@@ -32,11 +32,11 @@ Federated capacity is accepted only from explicitly trusted post-secondary peers
 inside a workload envelope. No capacity or savings claim is valid before the
 hardware census and non-disruptive pilot.
 
-- [Consolidated ecosystem architecture](../psdc-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
-- [Dependency contract](../psdc-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
-- [Cross-pollination model](../psdc-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
-- [Open-source reference stack](../psdc-architecture/docs/vision/12-Open-Source-Reference-Stack.md)
-- [Commons architecture](../psdc-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
+- [Consolidated ecosystem architecture](../algonquin-architecture/docs/architecture/Consolidated-Ecosystem-Architecture.md)
+- [Dependency contract](../algonquin-architecture/docs/architecture/Ecosystem-Dependency-Contract.md)
+- [Cross-pollination model](../algonquin-architecture/docs/architecture/Cross-Pollination-and-Shared-Capabilities.md)
+- [Open-source reference stack](../algonquin-architecture/docs/vision/12-Open-Source-Reference-Stack.md)
+- [Commons architecture](../algonquin-architecture/docs/vision/constitutional/Post-Secondary-Digital-Commons-Architecture.md)
 
 ## Repository map
 
